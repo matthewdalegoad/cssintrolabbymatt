@@ -9,7 +9,9 @@ body {
   line-height: 1.5;
   color: #606c71;
   text-align: center;
+  background-color: #F30;
 }
+
 
 .container {
   max-width: 800px;
@@ -21,6 +23,15 @@ body {
   text-align: left;
   background-color: #eee;
 }
+
+div section {
+	font-style: italic;	
+}
+.container .page-header{
+	background-color: yellow;
+}
+
+
 
 section {
     margin: 3em 0;
